@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942667118480",
+    "project_id": "sctseniorcare",
+    "storage_bucket": "sctseniorcare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942667118480:android:b3163df7713a86ca47a515",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFcdL8h1IvbGBd18tJoH3Egn1tBXFsDkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
